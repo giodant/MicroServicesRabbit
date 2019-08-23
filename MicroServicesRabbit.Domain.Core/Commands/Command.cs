@@ -1,7 +1,5 @@
 ﻿using MicroServicesRabbit.Domain.Core.Events;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MicroServicesRabbit.Domain.Core.Commands
 {

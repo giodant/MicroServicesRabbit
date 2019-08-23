@@ -1,7 +1,4 @@
 ﻿using MicroServicesRabbit.Domain.Core.Events;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace MicroServicesRabbit.Domain.Core.Bus
